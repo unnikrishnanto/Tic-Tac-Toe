@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unnikrishnanto/Tic-Tac-Toe.git/static/css/main.51992abf.css",
+    "main.js": "/unnikrishnanto/Tic-Tac-Toe.git/static/js/main.8063b589.js",
+    "index.html": "/unnikrishnanto/Tic-Tac-Toe.git/index.html",
+    "main.51992abf.css.map": "/unnikrishnanto/Tic-Tac-Toe.git/static/css/main.51992abf.css.map",
+    "main.8063b589.js.map": "/unnikrishnanto/Tic-Tac-Toe.git/static/js/main.8063b589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51992abf.css",
+    "static/js/main.8063b589.js"
+  ]
+}
